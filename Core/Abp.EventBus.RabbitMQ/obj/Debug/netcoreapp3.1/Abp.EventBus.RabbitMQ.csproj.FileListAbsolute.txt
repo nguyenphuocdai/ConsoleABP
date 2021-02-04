@@ -1,0 +1,16 @@
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Abo.EventBus.dll
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Abp.Core.dll
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Abp.Core.pdb
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Abp.EventBus.RabbitMQ.csprojAssemblyReference.cache
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Abp.EventBus.RabbitMQ.AssemblyInfoInputs.cache
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Abp.EventBus.RabbitMQ.AssemblyInfo.cs
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Abp.EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Abp.EventBus.RabbitMQ.deps.json
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Abp.EventBus.RabbitMQ.dll
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Abp.EventBus.RabbitMQ.pdb
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Abp.RabbitMQ.dll
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Abo.EventBus.pdb
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Abp.RabbitMQ.pdb
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Abp.EventBus.RabbitMQ.csproj.CopyComplete
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Abp.EventBus.RabbitMQ.dll
+D:\Working\C#\ConsoleAppABP\Core\Abp.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Abp.EventBus.RabbitMQ.pdb

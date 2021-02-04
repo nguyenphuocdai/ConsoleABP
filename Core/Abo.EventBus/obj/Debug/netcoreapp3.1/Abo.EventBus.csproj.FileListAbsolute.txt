@@ -1,0 +1,12 @@
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\obj\Debug\netcoreapp3.1\Abo.EventBus.csprojAssemblyReference.cache
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\obj\Debug\netcoreapp3.1\Abo.EventBus.AssemblyInfoInputs.cache
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\obj\Debug\netcoreapp3.1\Abo.EventBus.AssemblyInfo.cs
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\obj\Debug\netcoreapp3.1\Abo.EventBus.csproj.CoreCompileInputs.cache
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\bin\Debug\netcoreapp3.1\Abo.EventBus.deps.json
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\bin\Debug\netcoreapp3.1\Abo.EventBus.dll
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\bin\Debug\netcoreapp3.1\Abo.EventBus.pdb
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\bin\Debug\netcoreapp3.1\Abp.Core.dll
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\bin\Debug\netcoreapp3.1\Abp.Core.pdb
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\obj\Debug\netcoreapp3.1\Abo.EventBus.csproj.CopyComplete
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\obj\Debug\netcoreapp3.1\Abo.EventBus.dll
+D:\Working\C#\ConsoleAppABP\Core\Abo.EventBus\obj\Debug\netcoreapp3.1\Abo.EventBus.pdb
